@@ -1,0 +1,33 @@
+{
+  "name": "nestjs-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "test": "npm run test",
+    "start": "nest start",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangchoi/nestjs-practice.git"
+  },
+  "author": "yangchoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangchoi/nestjs-practice/issues"
+  },
+  "homepage": "https://github.com/yangchoi/nestjs-practice#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.37.0",
+    "eslint": "^8.23.1",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-standard-with-typescript": "^23.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.5",
+    "eslint-plugin-promise": "^6.0.1",
+    "typescript": "^4.8.3"
+  },
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
+}
